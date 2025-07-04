@@ -1,0 +1,26 @@
+# Environment files
+.env
+venv/
+.env*/
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Editor files
+.vscode/
+.idea/
+
+# Model files
+*.h5
+*.pkl
+
+# Log files
+*.log
+logs/
+
+# System files
+.DS_Store
+Thumbs.db
